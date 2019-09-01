@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CoffeeHeader">
+        <attr name="coffeeColor" format="color"/>
+        <attr name="cupBodyColor" format="color"/>
+        <attr name="cupBottomColor" format="color"/>
+        <attr name="handColor" format="color"/>
+        <attr name="stickColor" format="color"/>
+        <attr name="cupRadius" format="dimension"/>
+    </declare-styleable>
+</resources>
