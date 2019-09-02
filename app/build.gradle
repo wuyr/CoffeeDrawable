@@ -35,7 +35,7 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
 
     //CoffeeHeader
-    implementation 'com.wuyr:coffeeheader:1.0.0'
+    implementation 'com.wuyr:coffeeheader:1.0.1'
 
     //下拉刷新
     implementation 'com.scwang.smartrefresh:SmartRefreshLayout:1.1.0-andx-11'
