@@ -1,5 +1,5 @@
 ##  CoffeeDrawable，纯Paint实现的一个搅拌咖啡效果，可用作Loading动画。
-### 博客详情： 敬请期待。。。
+### 博客详情： <https://blog.csdn.net/u011387817/article/details/100530256>
 
 ### 使用方式:
 #### 添加依赖：
